@@ -79,12 +79,12 @@ img {
 
 }
 #home {
-	background-image: url(../images/page_top.jpeg);
+	background-image: url(page_top.jpeg);
 	min-height: 100vh;
 }
 /*イベントページ*/
 #event {
-	background-image: url(../images/event_top.jpeg);
+	background-image: url(event_top.jpeg);
 	height: 450px;
 	margin-bottom: 50px;
 }
